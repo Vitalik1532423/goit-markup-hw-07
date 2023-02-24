@@ -1129,8 +1129,6 @@ screen and (min-resolution: 2dppx) and (max-width: 428px){
 		padding: 0;
 		transition: background-color var(--animation), fill var(--animation);
 	}
-	.menu-modal-mobile-list-item{
-	}
 	.menu-modal-mobile-item{
 		font-weight: 700;
 		font-size: 36px;
